@@ -19,4 +19,12 @@ TDD 是一種軟體開發流程，主要流程為：
 ---
 
 ## 📁 專案結構說明
+ClassUploadSolution/ 
+├── ClassUploadSolution.sln # Visual Studio 解決方案檔案 
+├── ClassUploadTester/ # 主程式專案 │ 
+├── ClassUploadTester.csproj 
+│ └── FileCompiler.cs # 處理類別檔案編譯邏輯 
+└── ClassUploadTester.Tests/ # 單元測試專案 
+├── ClassUploadTester.Tests.csproj 
+└── FileCompilerTests.cs # 測試 FileCompiler 功能
 
