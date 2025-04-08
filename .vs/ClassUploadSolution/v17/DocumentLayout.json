@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\Desktop\\ClassUploadSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|ClassUploadTester.Tests\\ClassUploadTester.Tests.csproj|d:\\users\\desktop\\classuploadsolution\\classuploadtester.tests\\filecompilertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|ClassUploadTester.Tests\\ClassUploadTester.Tests.csproj|solutionrelative:classuploadtester.tests\\filecompilertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|ClassUploadTester\\ClassUploadTester.csproj|d:\\users\\desktop\\classuploadsolution\\classuploadtester\\filecompiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|ClassUploadTester\\ClassUploadTester.csproj|solutionrelative:classuploadtester\\filecompiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileCompiler.cs",
+              "DocumentMoniker": "D:\\Users\\Desktop\\ClassUploadSolution\\ClassUploadTester\\FileCompiler.cs",
+              "RelativeDocumentMoniker": "ClassUploadTester\\FileCompiler.cs",
+              "ToolTip": "D:\\Users\\Desktop\\ClassUploadSolution\\ClassUploadTester\\FileCompiler.cs",
+              "RelativeToolTip": "ClassUploadTester\\FileCompiler.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T06:52:43.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileCompilerTests.cs",
+              "DocumentMoniker": "D:\\Users\\Desktop\\ClassUploadSolution\\ClassUploadTester.Tests\\FileCompilerTests.cs",
+              "RelativeDocumentMoniker": "ClassUploadTester.Tests\\FileCompilerTests.cs",
+              "ToolTip": "D:\\Users\\Desktop\\ClassUploadSolution\\ClassUploadTester.Tests\\FileCompilerTests.cs",
+              "RelativeToolTip": "ClassUploadTester.Tests\\FileCompilerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T06:52:26.354Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
